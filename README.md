@@ -451,7 +451,7 @@ That's it, you survived this gigantic tutorial! (**Believe me if there was an ac
 
 ### What's In Next Tutorial
 
-In our next tutorial, we are going to implement the insert functionality in **NoteDbHelper** and finally able to add new notes. Stay tuned!
+In our [**next tutorial**](https://androidpirate.github.io/NoteAppSqliteInsert/ "**next tutorial**"), we are going to implement the insert functionality in **NoteDbHelper** and finally able to add new notes. Stay tuned!
 
 
 
